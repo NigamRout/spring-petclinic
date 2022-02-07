@@ -10,8 +10,6 @@
   <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
   <link rel="preconnect" href="https://avatars.githubusercontent.com">
   
-  <meta name="viewport" content="width=device-width">
-  
   <title>spring-petclinic/readme.md at main · NigamRout/spring-petclinic</title>
 
 <div class="clearfix new-discussion-timeline container-xl px-3 px-md-4 px-lg-5">
