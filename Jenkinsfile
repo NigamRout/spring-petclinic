@@ -64,10 +64,8 @@ pipeline {
             echo 'ENTRYPOINT ["java","-jar","/app/spring-petclinic.jar","--server.port=8080"]   ' >> $DOCKER_FILE_NAME
             cat $DOCKER_FILE_NAME
            
-		    // Building Docker Image
             docker build -f $DOCKER_FILE_NAME -t $DOCKER_IMAGE_NAME .
            
-		    // Remove container if exest and create a new container
             echo $(docker inspect --format="{{ .State.Running }}" $DOCKER_CONTAINR_NAME)
             if [ $(docker inspect --format="{{ .State.Running }}" $DOCKER_CONTAINR_NAME) ] ; then docker rm -f $DOCKER_CONTAINR_NAME; fi
            
