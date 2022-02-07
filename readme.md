@@ -10,14 +10,6 @@
   <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
   <link rel="preconnect" href="https://avatars.githubusercontent.com">
   
-  <script crossorigin="anonymous" defer="defer" 
-          integrity="sha512-42F1hQV3NmnK/aikw++ctbC9ROw0br5kTb10r+K6Rp00mauyZMH5uZSH7996vSqNKUjfeacx4dxbNfxZ3ebhxQ==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-e3617585.js">
-
-  </script>
-  <script crossorigin="anonymous" defer="defer" 
-          integrity="sha512-AA1czZXYMzccGr1WH3aSH6ALnp0hsU3d8psNGvwyS0J4ANF4YnSkFr5N7jvQTTMp0nLelS/4IeCIW6qLbuA+Ag==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-000d5ccd.js">
-  </script>
-
   <meta name="viewport" content="width=device-width">
   
   <title>spring-petclinic/readme.md at main · NigamRout/spring-petclinic</title>
