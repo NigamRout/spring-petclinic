@@ -15,7 +15,7 @@ pipeline {
       
     stage('Cloning Git') {
       steps {
-        git branch: 'main', url: "https://github.com/spring-projects/spring-petclinic"
+        git branch: 'main', url: "https://github.com/NigamRout/spring-petclinic.git"
       }
     }
     
