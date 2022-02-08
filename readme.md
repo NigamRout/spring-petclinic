@@ -10,9 +10,9 @@
   <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
   <link rel="preconnect" href="https://avatars.githubusercontent.com">
   
-<button onclick="topFunction()" id="myBtn" title="go to Top"> Top</button>
 
-<div class="clearfix new-discussion-timeline container-xl px-3 px-md-4 px-lg-5">
+    
+  <div class="clearfix new-discussion-timeline container-xl px-3 px-md-4 px-lg-5">
   <div id="repo-content-pjax-container" class="repository-content " >
 
 <h1 dir="auto">Spring PetClinic Demo for JFrog</h1>
