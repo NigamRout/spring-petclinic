@@ -41,7 +41,7 @@
 
 <h2 dir="auto" id="#Prerequisites">Prerequisites</h2>
 <blockquote>
-<p dir="auto">Before running the Pet Clinic App, Please make sure you have below Packages in your machine 
+<p dir="auto">Before running the Pet Clinic App, Please make sure you have below Packages in your machine. I have provided the version info just for reference, you may not need the exact version.   
   <table border="1" width="700">
     <thead>
       <tr> <th width=50%> Package Name </th>  <th width=50%> Version Used </th>  </tr>
