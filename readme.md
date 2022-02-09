@@ -34,7 +34,7 @@
 </br>
 
 <h2 dir="auto" id="#Introduction">Introduction</h2>
-<p dir="auto">Build a Jenkins PipeLine to build Spring pet-clinic app and bundel and run the app as a docker container</p>
+<p dir="auto">Create a Jenkins PipeLine to build Spring pet-clinic app and bundel and run the app as a docker container</p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/NigamRout/spring-petclinic/blob/main/src/main/resources/static/resources/images/jFrog_Demo.png?raw=true"><img width="1242" alt="petclinic-screenshot" src="https://github.com/NigamRout/spring-petclinic/blob/main/src/main/resources/static/resources/images/jFrog_Demo.png?raw=true" style="max-width: 100%;"></a></p>
 </br>
